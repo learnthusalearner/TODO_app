@@ -17,3 +17,4 @@ Key Benefits of a Todo App
 To clone the projects follow the steps;-
 1) go in the frontend folder, do "npm run dev"
 2) go in backend folder, do "node index.js"
+3) now u are good to go :)
