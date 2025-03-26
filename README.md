@@ -10,3 +10,13 @@ Key Benefits of a Todo App
 - Better Time Management:Efficient scheduling: Allocate time for tasks based on importance and urgency.
 - Reduced procrastination: Stay motivated with clear goals and deadlines.
 - Optimized workflow: Identify time-consuming tasks and find ways to streamline them.
+
+</br>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To clone the projects follow the steps;-
+1) go in the frontend folder, do "npm run dev"
+2) go in backend folder, do "node index.js"
+3) now u are good to go :)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*NOTE* -> when you run locally just "your_local_url/newtodo" 
